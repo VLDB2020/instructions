@@ -2,6 +2,8 @@
 
 ## Video Format
 
-Blah
+Blah Blah Blah.
 
 ## Upload
+
+Blah Blah Blah.
