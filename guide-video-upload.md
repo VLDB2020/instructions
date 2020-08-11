@@ -1,6 +1,6 @@
 # VLDB2020: Talk Upload Instructions for all presenters
 
-> Please follow the instructions above to prepare the mp4 recording of your talk.
+> Please follow the instructions [HERE](https://vldb2020.org/guide-presenter.html) to prepare the mp4 recording of your talk.
 
 **STEP 1)** Fill out the release at [https://forms.gle/2LDAcsj84DoAVnHM6](https://forms.gle/2LDAcsj84DoAVnHM6) to opt-in to releasing your videos to the public after the conference.
 
