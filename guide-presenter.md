@@ -30,5 +30,4 @@ We recommend you use the Zoom application (the installed version, not the web ve
     - Make sure your Zoom app and presentation app (e.g. PowerPoint) run in full-screen mode, since windowed-mode may generate a lower resolution mp4 file.
 - We ask that you keep the picture-in-picture window that shows up automatically so viewers can see the speaker.
 
-We will post instructions to upload your video in about a week. We first need to finalize the assignment of papers to sessions, which will then determine how you should name your video file.
-
+> You can find instructions to upload your videos [HERE](https://vldb2020.org/guide-video-upload.html).
