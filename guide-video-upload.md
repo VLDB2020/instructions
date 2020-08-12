@@ -14,7 +14,9 @@
 1. **Tutorials**: The name of the file should start with the keyword “Tutorial”, followed by the session ID (e.g., Tutorial 1 is in session 7T]), and then the part number: “Part1”, “Part2”, etc.<br> **Tutorial[SessionID]\_Part[#]**<br> For example, the first video for the first tutorial should be named:<br>**Tutorial07T_Part1.mp4**
 1. Panel: Panel talks should be named **Panel\_[PresenterLastName].mp4**
 
-**STEP 3)** Upload your file to 
-[https://www.dropbox.com/l/scl/AAAE6HbXH8m1iJWKCQpT2xHz4cbeNfST5BU](https://www.dropbox.com/l/scl/AAAE6HbXH8m1iJWKCQpT2xHz4cbeNfST5BU)
+**STEP 3)** Upload your file to [https://www.dropbox.com/l/scl/AAAE6HbXH8m1iJWKCQpT2xHz4cbeNfST5BU](https://www.dropbox.com/l/scl/AAAE6HbXH8m1iJWKCQpT2xHz4cbeNfST5BU)
+
+To protect this dropbox, you will need to request access and be granted access before you can upload your file.
+
 
 Thanks.
