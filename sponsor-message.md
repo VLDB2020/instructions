@@ -1,4 +1,4 @@
-# VLDB2020: Message from Our Sponsors
+# VLDB2020: Messages from Our Sponsors
 
 ## Premium Diamond Sponsor
 
@@ -46,8 +46,6 @@ Google tackles the most challenging problems in computer science and related fie
 
 Our mission is to empower people with better information to make their best decisions. Since 2016, [Megagon Labs](https://megagon.ai/) (formerly Recruit Institute of Technology) has conducted top-notch research and built
 technologies in Mountain View and Tokyo and has made impacts through the worldwide services and products of the [Recruit Group](https://recruit-holdings.com/what/network/) to achieve our mission. Our research focuses are in the broad areas of Artificial Intelligence, Data Management, and Natural Language Processing.
-
-
 
 ### Oracle
 
@@ -111,7 +109,14 @@ Join this session with the Facebook PhD recruiting, academic relations, and rese
 
 ![](https://vldb2020.org/assets/logo/logo_hitachi.svg)
 
-<!--Message from Hitachi here.-->
+Hitachi, Ltd., headquartered in Tokyo, Japan, is focused on its Social Innovation Business that combines information technology (IT), operational technology (OT) and products. 
+
+Hitachi drives digital innovation across five sectors - Mobility, Smart Life, Industry, Energy and IT - through Lumada, Hitachi's advanced digital solutions, services, and technologies for turning data into insights to drive digital innovation. Its purpose is to deliver solutions that increase social, environmental and economic value for its customers. For more information on Hitachi, please visit the company's website at https://www.hitachi.com.
+
+Hitachi has been powering a better world for over 110 years. We are creating a safer, smarter society by integrating rich expertise in social infrastructure and digital technology. Our collaborative creation with customers is now accelerating even more with “Lumada” - Hitachi’s advanced digital solutions, services, and technologies for turning data into insights to drive digital innovation.
+
+Learn more about Lumada
+http://www.hitachi.com/products/it/lumada/global/en/about/index.html
 
 ### IBM
 
@@ -130,7 +135,7 @@ LINE was conceived as a mobile messaging service shortly after the massive earth
 
 ![](https://vldb2020.org/assets/logo/logo_microsoft.svg)
 
-<!--Message from Microsoft here.-->
+Microsoft Research is where leading scientists and engineers have the freedom and support to propel discovery and innovation. Here, they pursue and publish curiosity-driven research in a range of scientific and technical disciplines that can be translated into products. With access to vast computing power, global multi-disciplinary teams tackle complex problems that drive breakthrough technologies and improve lives. aka.ms/vldb-2020
 
 ### MongoDB
 
