@@ -2,7 +2,7 @@
 
 ## Premium Diamond Sponsor
 
-### Cygame
+### Cygames
 
 ![](https://vldb2020.org/assets/logo/logo_cygames.svg)
 
