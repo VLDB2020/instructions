@@ -91,6 +91,7 @@ We’re a diverse collection of thinkers and doers, continually reimagining what
 
 Baidu is a leading search engine, knowledge and information centered Internet platform and AI company. The Company's mission is to make the complicated world simpler through technology. To know more about us: [http://research.baidu.com/](http://research.baidu.com/)
 
+Video: [Baidu - an AI Company](https://www.youtube.com/watch?v=JJq2MWRIPBQ&feature=emb_logo )
 
 ### Cyber Agent
 
