@@ -70,13 +70,11 @@ Recruit was established more than 50 years ago as an information service company
 
 ![](https://vldb2020.org/assets/logo/logo_amazon.svg)
 
-Amazon is guided by four principles: customer obsession rather than competitor focus, passion for invention, commitment to operational excellence, and long-term thinking. We strive to have a positive impact on customers, employees, small businesses, the economy, and communities. Amazonians are smart, passionate builders with different backgrounds and goals, who share a common desire to always be learning and inventing on behalf of our customers.
+<small>[list marks] and all related logos are trademarks of Amazon.com, Inc. or its affiliates.</small>
 
-Amazon is hosting a Women in Tech Coffee Talk on Thursday, September 3 at 5:00pm PT / 9:00am Tokyo time. Join us with your favorite beverage to learn about the valuable knowledge and experience of successful women in engineering at Amazon! These remarkable leaders from Amazon QuickSight, Aurora, and Timestream will engage in a casual discussion on innovation, their career path, and a Q&A. If you are interested in attending, you can find registration details [here](https://vldbwomenintechcoffeetalk.splashthat.com/).
+Amazon is guided by four principles: customer obsession rather than competitor focus, passion for invention, commitment to operational excellence, and long-term thinking. We strive to have a positive impact on customers, employees, small businesses, the economy, and communities. Amazonians are smart, passionate builders with different backgrounds and goals, who share a common desire to always be learning and inventing on behalf of our customers. Explore opportunities at Amazon here (https://www.amazon.jobs/en/). 
 
-Amazon is also hosting a Tech Talk: The Evolution of Data Warehousing - Data Lakes with AWS Lake Formation with Mehul A. Shah, GM of AWS Lake Formation and AWS Glue on Tuesday, September 1 at 5:00pm PT / 9:00am Tokyo time. You can find registration details [here](https://vldbtechtalk.splashthat.com/).
-
-
+To learn more about Amazon, join us on September 1 for a Tech Talk (https://vldbtechtalk.splashthat.com/)  with Mehul A. Shah (https://www.linkedin.com/in/mehulashah/) on "The Evolution of Data Warehousing - Data Lakes with AW Lake Formation". You can also learn more about Amazon at the Women in Technology Coffee Talk (https://vldbwomenintechcoffeetalk.splashthat.com/) on Thursday, September 3. 
 
 ### Apple
 
@@ -103,8 +101,7 @@ Video: [Baidu - an AI Company](https://www.youtube.com/watch?v=JJq2MWRIPBQ&featu
 
 ![](https://vldb2020.org/assets/logo/logo_facebook.svg)
 
-Join this session with the Facebook PhD recruiting, academic relations, and research teams to learn more about opportunities to engage at Facebook. [www.research.fb.com](https://www.research.fb.com)
-
+Join this session with the Facebook PhD recruiting, academic relations, and research teams to learn more about opportunities to engage at Facebook.  www.research.fb.com 
 
 ### Hitachi
 
@@ -121,7 +118,11 @@ http://www.hitachi.com/products/it/lumada/global/en/about/index.html
 
 ### IBM
 
-<!--Message from IBM here.-->
+![](https://vldb2020.org/assets/logo/logo_ibm.svg)
+
+There is no AI without algorithms. In our pursuit of fluid intelligence, we are continuing to advance our work in deep learning, and are putting significant investment into neurosymbolic AI, which combines the power of neural networks with symbolic methods to help AI reason more effectively.
+In parallel, we’re delivering secure, trusted AI with work focused on explainability, fairness, and bias reduction, and empowering AI creators with AI engineering tools and capabilities that simplify and automate key tasks like data preparation, training and lifecycle management.
+Finally, we’re developing a new class of AI hardware that is inherently energy-sufficient, increasing compute power by orders of magnitude without the demand for increased energy. To learn more visit: https://www.draco.res.ibm.com/ai
 
 ### Line
 
