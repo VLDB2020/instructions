@@ -5,9 +5,9 @@
 Thank you for volunteering to chair a research session! In those sessions, research and industry papers are intertwined but industry papers are labeled as such in the program.
 
 
-**Logistics**: Each session will be a zoom webinar. To give attendees the experience of a shared event, all attendees will be upgraded to panelists. This means that they will be able to see each other, privately chat with each other, and speak. If an attendee is disruptive (voluntarily or involuntarily), they will be demoted to attendee, losing their audio/video privileges.
+**Logistics**: Each session will be a zoom webinar. To give attendees the experience of a shared event, all attendees will be upgraded to panelists. This means that they will be able to see each other, privately chat with each other, and speak. If an attendee is disruptive (voluntarily or involuntarily), they will be demoted to attendee, losing their audio/video privileges. **IMPORTANT** Please end your session at least 5 min before the end of the hour. We have a limited number of zoom licenses, so we need sessions to end before the next set of sessions can begin. The instructions below ask you to end even a few minutes earlier than that in order to give attendees a break before the next session.
 
-**Zoom link**: You will find the link to the zoom webinar on the interactive conference program ([https://vldb2020.org/program.html](https://vldb2020.org/program.html)). Just click on your session and you should see buttons for Zoom, Slack, paper pdf, and technical support.
+**Zoom link**: You will find the link to the zoom webinar on the interactive conference program ([https://vldb2020.org/program.html](https://vldb2020.org/program.html)). Just click on your session and you should see buttons for Zoom, Slack, paper pdf, and technical support. Please **do NOT share** the zoom link on social media or anywhere else where it might be found by a malicious party.
 
 **Before The Conference**:
 - Please review the following training videos, which explain Zoom [webinar mode](https://vimeo.com/427831814) and Zoom’s [moderation tools](https://vimeo.com/430085119).
@@ -23,8 +23,8 @@ Support:
 - **Slack channel**: Additional Gateway Productions support staff will also be present in a dedicated support slack channel. 
 
 **Structure of a session**: Please run your session as follows
-- 5 minutes before session
-    - Arrive in the Zoom channel early to check your camera/mic, identify yourself to the technical chair (who will promote you), and mitigate any technical difficulties.
+- 2 minutes before session
+    - Arrive in the Zoom channel a minute or two early to check your camera/mic, identify yourself to the technical chair (who will promote you), and mitigate any technical difficulties. Please note that we have a limited number of zoom licenses so we need one set of sessions to end before the next set of sessions can begin.
 - First 5 minutes 
     - Take 2 minutes for miscellaneous chit-chat. Both the primary and secondary chair can greet attendees as a whole. You can say things like: “Welcome to this session on *&lt;title of the session&gt;*. We will begin shortly.” You can also say “hi” to specific people that you recognize. Please also greet the speakers who join the session. The goal is to create a sense of a community of people coming together. 
     - Primary chair should then begin the session and do the following:
@@ -42,7 +42,7 @@ Support:
         - Then take more questions and comments from the audience. At this time, you can either use the zoom Q&A feature or you can let the audience members speak directly.
         - The secondary chair should contribute to the discussion.
     - BREAK
-        - Make sure to end your session **7-10 min** before the end of the hour to give attendees enough time to get a coffee, get food, and stretch their legs before the next session.
+        - Make sure to end your session **7-10 min** before the end of the hour to give attendees enough time to get a coffee, get food, and stretch their legs before the next session. 
     - Slack discussion
         - Make sure there is at least one unanswered question on the slack channel for your session. If there were no questions left unanswered, then please come up with a new question. There needs to be a question to get the conversation going.
         - And then you are done! Thanks.
@@ -54,10 +54,9 @@ Thank you for volunteering to chair a demo session!
 
 **Logistics**: Each session will be a zoom webinar. To give attendees the experience of a shared event, all attendees will be upgraded to panelists. This means that they will be able to see each other, privately chat with each other, and speak. If an attendee is disruptive (voluntarily or involuntarily), they will be demoted to attendees, losing their audio privileges.
 
-**Before The Conference**: 
-- Please review the following training videos, which explain Zoom [webinar mode](https://vimeo.com/427831814) and Zoom’s [moderation tools](https://vimeo.com/430085119).
-- Please **email the authors** of the papers in your session. Make sure everyone has the right time for the session and please confirm (1) who will be giving the recorded talk (so you can introduce them propely) and who will be present to answer questions live. We ask the authors to be present at least one of the two times when their paper is presented, but many will be present both times.
+**Zoom link**: You will find the link to the zoom webinar on the interactive conference program ([https://vldb2020.org/program.html](https://vldb2020.org/program.html)). Just click on your session and you should see buttons for Zoom, Slack, paper pdf, and technical support. Please **do NOT share** the zoom link on social media or anywhere else where it might be found by a malicious party. **IMPORTANT** Please end your session at least 5 min before the end of the hour (except if your session has 6 demos). We have a limited number of zoom licenses, so we need sessions to end before the next set of sessions can begin. The instructions below ask you to end even a few minutes earlier than that in order to give attendees a break before the next session.
 
+**Before The Conference**: Please review the following training videos, which explain Zoom [webinar mode](https://vimeo.com/427831814) and Zoom’s [moderation tools](https://vimeo.com/430085119).
 
 **Support**: 
 
@@ -89,6 +88,8 @@ Thank you for volunteering to chair a demo session!
 Thank you for volunteering to chair a VLDBJ session!
 
 **Logistics**: Each session will be a zoom webinar. To give attendees the experience of a shared event, all attendees will be upgraded to panelists. This means that they will be able to see each other, privately chat with each other, and speak. If an attendee is disruptive (voluntarily or involuntarily), they will be demoted to attendees, losing their audio privileges.
+
+**Zoom link**: You will find the link to the zoom webinar on the interactive conference program ([https://vldb2020.org/program.html](https://vldb2020.org/program.html)). Just click on your session and you should see buttons for Zoom, Slack, paper pdf, and technical support. Please **do NOT share** the zoom link on social media or anywhere else where it might be found by a malicious party.
 
 **Before The Conference**: Please review the following training videos, which explain Zoom [webinar mode](https://vimeo.com/427831814) and Zoom’s [moderation tools](https://vimeo.com/430085119).
 
