@@ -20,7 +20,12 @@ NEC Corporation has established itself as a leader in the integration of IT and 
 
 ![](https://vldb2020.org/assets/logo/logo_sky.svg)
 
-<!-- Message from Sky here. -->
+Sky co., LTD. (https://www.skygroup.jp) delivers major software products in some markets in Japan. 
+'SKYSEA Client View' is IT asset management system for businesses and governments. 
+'SKYMENU ' is lesson support system for schools. 
+Also we have virtual desktop system, 'SKYDIV Desktop Client'.
+We also have software development division for various systems including multifunctional photocopiers, advanced cars, connected home appliances and so on.
+We are working with Tsukuba University to enable SKYSEA Client View deal with larger data faster by utilizing insights of data engineering.
 
 ## Platinum Sponsors
 
@@ -95,7 +100,7 @@ Video: [Baidu - an AI Company](https://www.youtube.com/watch?v=JJq2MWRIPBQ&featu
 
 ![](https://vldb2020.org/assets/logo/logo_cyberagent.svg)
 
-<!-- Message from Cyber Agent here.-->
+CyberAgent has been expanding its businesses based on the internet industry. It is enjoying the flexibility to respond changes, engaging in self-driven growth by investing in growing field and developing new businesses in-house. We entered a new investment phase to make "ABEMA" a mass medium in April, 2016. By accumulating the profit from Internet Advertisement and Game business, we aim to invest in Media business to grow a medium to long-term pillar.
 
 ### Facebook
 
