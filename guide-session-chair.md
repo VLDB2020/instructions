@@ -9,7 +9,9 @@ Thank you for volunteering to chair a research session! In those sessions, resea
 
 **Zoom link**: You will find the link to the zoom webinar on the interactive conference program ([https://vldb2020.org/program.html](https://vldb2020.org/program.html)). Just click on your session and you should see buttons for Zoom, Slack, paper pdf, and technical support. Please **do NOT share** the zoom link on social media or anywhere else where it might be found by a malicious party.
 
-**Before The Conference**: Please review the following training videos, which explain Zoom [webinar mode](https://vimeo.com/427831814) and Zoom’s [moderation tools](https://vimeo.com/430085119).
+**Before The Conference**:
+- Please review the following training videos, which explain Zoom [webinar mode](https://vimeo.com/427831814) and Zoom’s [moderation tools](https://vimeo.com/430085119).
+- Please **email the authors** of the papers in your session. Make sure everyone has the right time for the session and please confirm (1) who will be giving the recorded talk (so you can introduce them propely) and who will be present to answer questions live. We ask the authors to be present at least one of the two times when their paper is presented, but many will be present both times.
 
 Support:
 
