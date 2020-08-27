@@ -80,7 +80,7 @@ Thank you for volunteering to chair a demo session!
 - For each demo
     - Introduce the demonstration by reading its title and saying the name and affiliation of the author who will present the demonstration in the recorded video.
     - Ask the technical chair to play the recorded **7-min demonstration**.
-    - If an author is present to answer live questions, follow the recorded demo with **1 min of questions using the zoom Q&A feature**. This really means enough time for 1 or 2 quick questions. The program will indicate which authors are present to answer live demo questions. This information is also available [HERE](https://docs.google.com/spreadsheets/d/186astl6aVBiRFEHazp5fclBL0t1aYtINkvvnvCtLa9Y/edit?usp=sharing).
+    - If an author is present to answer live questions, follow the recorded demo with **1 min of questions using the zoom Q&A feature**. This really means enough time for 1 or 2 quick questions. The program indicates which author (if any) are present to answer live demo questions.
 - BREAK
     - Make sure to end your session 5 min before the end of the hour to give attendees a short break before the next session. If your session has 6 demos, then you will not have time for a break.
 - Slack discussion
