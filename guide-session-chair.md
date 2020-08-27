@@ -1,5 +1,11 @@
 # VLDB2020: Session Chair Instructions
 
+
+## CONFERENCE REGISTRATION
+
+Please remember to register for the conference (it's FREE & super quick):  https://tokyo.vldb2020.org/
+
+
 ## Research and Industry Paper Sessions
 
 Thank you for volunteering to chair a research session! In those sessions, research and industry papers are intertwined but industry papers are labeled as such in the program.
