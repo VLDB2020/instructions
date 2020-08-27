@@ -33,7 +33,7 @@ Support:
         - Say: “Welcome to the session on *&lt;title of the session&gt;*.”
         - Say: “We have three exciting papers in this session.” [A few sessions have only two papers].
         - Introduce the three papers: Read the title and the name of the author who presents the paper in the video recording. Say the presenter’s full name properly (you can ask them ahead of time if you are not sure about the pronunciation).
-        - Indicate if the presenter or another author is at the session to answer live Q&A or not. If the author is not present, then all questions will have to go to Slack. The interactive program indicates when a presenter will be at the session (see label "Presenter"). We strongly recommend getting in touch with the authors and confirming who will present the paper and who will answer live Q&A.
+        - Indicate if the presenter or another author is at the session to answer live Q&A or not. If the author is not present, then all questions will have to go to Slack. The interactive program indicates when a presenter will be at the session (see label "Live Q&A"). We strongly recommend getting in touch with the authors and confirming who will present the paper and who will answer live Q&A.
         - Ask the attendees to keep their microphones muted to avoid disruptions.
     - For each paper
         - Ask the technical chair to play the recorded **10-min talk**
@@ -145,7 +145,7 @@ Please **do NOT share** the zoom link on social media or anywhere else where it 
 
 Thank you so much for helping VLDB'20 in the role of technical round table chairs!
 
-The round tables will run as zoom meetings and will be 60 min in duration. They are meant to be discussions (no slides, no panelists).
+The round tables will run as zoom meetings and will be 60 min in duration. They are meant to be discussions (no slides, no panelists). You will find the link to the zoom meeting on the interactive conference program ([https://vldb2020.org/program.html](https://vldb2020.org/program.html)).
 
 We recommend the following:
 - Invite 3-4 experts in the field to join the round table (they should also ask their students and postdocs to join the round table).
