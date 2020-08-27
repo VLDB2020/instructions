@@ -87,6 +87,24 @@ Thank you for volunteering to chair a demo session!
     - Make sure there is at least one question on the slack channel for your session. If there were no questions left unanswered, then please come up with a new question. There needs to be a question to get the conversation going.
     - And then you are done! Thanks.
 
+## Tutorial Sessions
+
+Thank you for running a Tutorial Session!
+
+**Logistics**: Each session will be a zoom webinar. To give attendees the experience of a shared event, all attendees will be upgraded to panelists. This means that they will be able to see each other, privately chat with each other, and speak. If an attendee is disruptive (voluntarily or involuntarily), they will be demoted to attendees, losing their audio privileges.
+
+**Zoom link**: You will find the link to the zoom webinar on the interactive conference program ([https://vldb2020.org/program.html](https://vldb2020.org/program.html)). Just click on your session and you should see buttons for Zoom, Slack, paper pdf, and technical support. Please **do NOT share** the zoom link on social media or anywhere else where it might be found by a malicious party.
+
+**Before The Conference**: Please review the following training videos, which explain Zoom [webinar mode](https://vimeo.com/427831814) and Zoom’s [moderation tools](https://vimeo.com/430085119).
+
+**Support**: 
+
+- **Technical chair**: A technical chair from Gateway Production will be present. That person will take care of streaming your videos when you give them the signal. They have all the videos and they know the order. The technical chair can also help to answer other technical questions that may come up during the session.
+- **Student volunteer**: A student volunteer will help you with two tasks:
+    - Demote a disruptive person from panelist to attendee. We will ask the students to monitor and if they notice that someone is being disruptive, they will go ahead and demote them. If you notice that someone is disruptive, you can demote them directly yourself as well.
+    - Copy over unanswered questions from the zoom Q&A to the Slack Channel. We will ask the students to make sure and copy all unanswered questions, but also try to copy all questions if possible.
+- **Slack channel**: Additional Gateway Productions support staff will also be present in a dedicated support slack channel. 
+
 ## VLDBJ Paper Sessions
 
 Thank you for volunteering to chair a VLDBJ session!
