@@ -11,7 +11,7 @@ Thank you for volunteering to chair a research session! In those sessions, resea
 
 **Before The Conference**:
 - Please review the following training videos, which explain Zoom [webinar mode](https://vimeo.com/427831814) and Zoom’s [moderation tools](https://vimeo.com/430085119).
-- Please **email the authors** of the papers in your session. Make sure everyone has the right time for the session and please confirm (1) who will be giving the recorded talk (so you can introduce them propely) and who will be present to answer questions live. We ask the authors to be present at least one of the two times when their paper is presented, but many will be present both times.
+- Please **email the authors** of the papers in your session. Make sure everyone has the right time for the session and please confirm (1) who will be giving the recorded talk (so you can introduce them propely) and who will be present to answer questions live. We ask the authors to be present at least one of the two times when their paper is presented, but many will be present both times and some share the responsibility with a co-author.
 
 Support:
 
@@ -30,8 +30,8 @@ Support:
     - Primary chair should then begin the session and do the following:
         - Say: “Welcome to the session on *&lt;title of the session&gt;*.”
         - Say: “We have three exciting papers in this session.” [A few sessions have only two papers].
-        - Introduce the three papers: Read the title, the affiliations of the authors, and finally give the name of the presenter. Say the presenter’s full name properly (you can ask them ahead of time if you are not sure about the pronunciation).
-        - Indicate if the presenter or another author is present to answer live Q&A or not. If the author is not present, then all questions will have to go to Slack. The interactive program will soon show when presenters are present. You can also see this information [HERE](https://docs.google.com/spreadsheets/d/19oS-P9qDm66_8HVjh1CzeL0D3c2ke7gxIi60x62OYYM/edit?usp=sharing). 
+        - Introduce the three papers: Read the title and the name of the author who presents the paper in the video recording. Say the presenter’s full name properly (you can ask them ahead of time if you are not sure about the pronunciation).
+        - Indicate if the presenter or another author is at the session to answer live Q&A or not. If the author is not present, then all questions will have to go to Slack. The interactive program indicates when a presenter will be at the session (see label "Presenter"). We strongly recommend getting in touch with the authors and confirming who will present the paper and who will answer live Q&A.
         - Ask the attendees to keep their microphones muted to avoid disruptions.
     - For each paper
         - Ask the technical chair to play the recorded **10-min talk**
@@ -56,7 +56,10 @@ Thank you for volunteering to chair a demo session!
 
 **Zoom link**: You will find the link to the zoom webinar on the interactive conference program ([https://vldb2020.org/program.html](https://vldb2020.org/program.html)). Just click on your session and you should see buttons for Zoom, Slack, paper pdf, and technical support. Please **do NOT share** the zoom link on social media or anywhere else where it might be found by a malicious party. **IMPORTANT** Please end your session at least 5 min before the end of the hour (except if your session has 6 demos). We have a limited number of zoom licenses, so we need sessions to end before the next set of sessions can begin. The instructions below ask you to end even a few minutes earlier than that in order to give attendees a break before the next session.
 
-**Before The Conference**: Please review the following training videos, which explain Zoom [webinar mode](https://vimeo.com/427831814) and Zoom’s [moderation tools](https://vimeo.com/430085119).
+**Before The Conference**: 
+- Please review the following training videos, which explain Zoom [webinar mode](https://vimeo.com/427831814) and Zoom’s [moderation tools](https://vimeo.com/430085119).
+- Please **email the authors** of the demos in your session. Make sure everyone has the right time for the session and please confirm (1) who will be giving the recorded talk (so you can introduce them propely) and who will be present to answer questions live. We ask the authors to be present at least one of the two times when their demo is presented, but many will be present both times and some share the responsibility with a co-author.
+
 
 **Support**: 
 
@@ -75,6 +78,7 @@ Thank you for volunteering to chair a demo session!
     - Let the audience know the format of the session: We have 5 (or 6) demonstrations in this session. Each demonstration will be presented in a 7-min video and then we will have time for one or two quick questions. I will let you know if there is an author present to answer a live question. Other questions should be asked on the slack channel. 
     - Ask the attendees to keep their microphones muted to avoid disruptions.
 - For each demo
+    - Introduce the demonstration by reading its title and saying the name and affiliation of the author who will present the demonstration in the recorded video.
     - Ask the technical chair to play the recorded **7-min demonstration**.
     - If an author is present to answer live questions, follow the recorded demo with **1 min of questions using the zoom Q&A feature**. This really means enough time for 1 or 2 quick questions. The program will indicate which authors are present to answer live demo questions. This information is also available [HERE](https://docs.google.com/spreadsheets/d/186astl6aVBiRFEHazp5fclBL0t1aYtINkvvnvCtLa9Y/edit?usp=sharing).
 - BREAK
@@ -110,23 +114,6 @@ Thank you for volunteering to chair a VLDBJ session!
     - Let the audience know the format of the session: VLDBJ papers will be presented in short, 4-min videos. There will be no live Q&A, but everyone is welcome to ask questions on the slack channel.
     - Then all you have to do is to ask the technical chair to stream the videos.
     - Please remain online to make sure all is going well and to answer any questions if an audience member raises a question using the zoom Q&A or chat features.
-
-
-## Tutorials
-
-Coming soon.
-
-## Award Talks
-
-Coming soon.
-
-## Sponsor Sessions
-
-Coming soon.
-
-## Workshops
-
-Coming soon.
 
 ## Technical Round Tables
 
