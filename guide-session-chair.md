@@ -7,7 +7,9 @@ Thank you for volunteering to chair a research session! In those sessions, resea
 
 **Logistics**: Each session will be a zoom webinar. To give attendees the experience of a shared event, all attendees will be upgraded to panelists. This means that they will be able to see each other, privately chat with each other, and speak. If an attendee is disruptive (voluntarily or involuntarily), they will be demoted to attendee, losing their audio/video privileges. **IMPORTANT** Please end your session at least 5 min before the end of the hour. We have a limited number of zoom licenses, so we need sessions to end before the next set of sessions can begin. The instructions below ask you to end even a few minutes earlier than that in order to give attendees a break before the next session.
 
-**Zoom link**: You will find the link to the zoom webinar on the interactive conference program ([https://vldb2020.org/program.html](https://vldb2020.org/program.html)). Just click on your session and you should see buttons for Zoom, Slack, paper pdf, and technical support. Please **do NOT share** the zoom link on social media or anywhere else where it might be found by a malicious party.
+**Zoom link**: You will find the link to the zoom webinar on the interactive conference program ([https://vldb2020.org/program.html](https://vldb2020.org/program.html)). Just click on your session and you should see buttons for Zoom, Slack, paper pdf, and technical support. 
+
+Please **do NOT share** the zoom link on social media or anywhere else where it might be found by a malicious party.  If you wish to share a link, please use `https://vldb2020.org/program_flat.html?s=[Session ID]`, replacing `[Session ID]` with the 2-digit+letter ID of your session.  (e.g., `https://vldb2020.org/program_flat.html?s=47C`). Registered participants will be able to access the zoom link from this page.
 
 **Before The Conference**:
 - Please review the following training videos, which explain Zoom [webinar mode](https://vimeo.com/427831814) and Zoom’s [moderation tools](https://vimeo.com/430085119).
@@ -54,7 +56,9 @@ Thank you for volunteering to chair a demo session!
 
 **Logistics**: Each session will be a zoom webinar. To give attendees the experience of a shared event, all attendees will be upgraded to panelists. This means that they will be able to see each other, privately chat with each other, and speak. If an attendee is disruptive (voluntarily or involuntarily), they will be demoted to attendees, losing their audio privileges.
 
-**Zoom link**: You will find the link to the zoom webinar on the interactive conference program ([https://vldb2020.org/program.html](https://vldb2020.org/program.html)). Just click on your session and you should see buttons for Zoom, Slack, paper pdf, and technical support. Please **do NOT share** the zoom link on social media or anywhere else where it might be found by a malicious party. **IMPORTANT** Please end your session at least 5 min before the end of the hour (except if your session has 6 demos). We have a limited number of zoom licenses, so we need sessions to end before the next set of sessions can begin. The instructions below ask you to end even a few minutes earlier than that in order to give attendees a break before the next session.
+**Zoom link**: You will find the link to the zoom webinar on the interactive conference program ([https://vldb2020.org/program.html](https://vldb2020.org/program.html)). Just click on your session and you should see buttons for Zoom, Slack, paper pdf, and technical support. We have a limited number of zoom licenses, so we need sessions to end before the next set of sessions can begin. The instructions below ask you to end even a few minutes earlier than that in order to give attendees a break before the next session.
+
+Please **do NOT share** the zoom link on social media or anywhere else where it might be found by a malicious party.  If you wish to share a link, please use `https://vldb2020.org/program_flat.html?s=[Session ID]`, replacing `[Session ID]` with the 2-digit+letter ID of your session.  (e.g., `https://vldb2020.org/program_flat.html?s=47C`). Registered participants will be able to access the zoom link from this page.
 
 **Before The Conference**: 
 - Please review the following training videos, which explain Zoom [webinar mode](https://vimeo.com/427831814) and Zoom’s [moderation tools](https://vimeo.com/430085119).
@@ -93,7 +97,9 @@ Thank you for running a Tutorial Session!
 
 **Logistics**: Each session will be a zoom webinar. To give attendees the experience of a shared event, all attendees will be upgraded to panelists. This means that they will be able to see each other, privately chat with each other, and speak. If an attendee is disruptive (voluntarily or involuntarily), they will be demoted to attendees, losing their audio privileges.
 
-**Zoom link**: You will find the link to the zoom webinar on the interactive conference program ([https://vldb2020.org/program.html](https://vldb2020.org/program.html)). Just click on your session and you should see buttons for Zoom, Slack, paper pdf, and technical support. Please **do NOT share** the zoom link on social media or anywhere else where it might be found by a malicious party.
+**Zoom link**: You will find the link to the zoom webinar on the interactive conference program ([https://vldb2020.org/program.html](https://vldb2020.org/program.html)). Just click on your session and you should see buttons for Zoom, Slack, paper pdf, and technical support. 
+
+Please **do NOT share** the zoom link on social media or anywhere else where it might be found by a malicious party.  If you wish to share a link, please use `https://vldb2020.org/program_flat.html?s=[Session ID]`, replacing `[Session ID]` with the 2-digit+letter ID of your session.  (e.g., `https://vldb2020.org/program_flat.html?s=47C`). Registered participants will be able to access the zoom link from this page.
 
 **Before The Conference**: Please review the following training videos, which explain Zoom [webinar mode](https://vimeo.com/427831814) and Zoom’s [moderation tools](https://vimeo.com/430085119).
 
@@ -111,7 +117,9 @@ Thank you for volunteering to chair a VLDBJ session!
 
 **Logistics**: Each session will be a zoom webinar. To give attendees the experience of a shared event, all attendees will be upgraded to panelists. This means that they will be able to see each other, privately chat with each other, and speak. If an attendee is disruptive (voluntarily or involuntarily), they will be demoted to attendees, losing their audio privileges.
 
-**Zoom link**: You will find the link to the zoom webinar on the interactive conference program ([https://vldb2020.org/program.html](https://vldb2020.org/program.html)). Just click on your session and you should see buttons for Zoom, Slack, paper pdf, and technical support. Please **do NOT share** the zoom link on social media or anywhere else where it might be found by a malicious party.
+**Zoom link**: You will find the link to the zoom webinar on the interactive conference program ([https://vldb2020.org/program.html](https://vldb2020.org/program.html)). Just click on your session and you should see buttons for Zoom, Slack, paper pdf, and technical support. 
+
+Please **do NOT share** the zoom link on social media or anywhere else where it might be found by a malicious party.  If you wish to share a link, please use `https://vldb2020.org/program_flat.html?s=[Session ID]`, replacing `[Session ID]` with the 2-digit+letter ID of your session.  (e.g., `https://vldb2020.org/program_flat.html?s=47C`). Registered participants will be able to access the zoom link from this page.
 
 **Before The Conference**: Please review the following training videos, which explain Zoom [webinar mode](https://vimeo.com/427831814) and Zoom’s [moderation tools](https://vimeo.com/430085119).
 
@@ -144,5 +152,7 @@ We recommend the following:
 - Prepare a couple of starter questions / statements to get the conversation going.
 
 When you run the round table, spend some time at the beginning for people to introduce themselves and perhaps say something about their own research/interests in this space. Although the details of how you run your round table is up to you.
+
+Please **do NOT share** the zoom link on social media or anywhere else where it might be found by a malicious party.  If you wish to share a link, please use `https://vldb2020.org/program_flat.html?s=[Session ID]`, replacing `[Session ID]` with the 2-digit+letter ID of your session.  (e.g., `https://vldb2020.org/program_flat.html?s=47C`). Registered participants will be able to access the zoom link from this page.
 
 Thanks again for doing this!
