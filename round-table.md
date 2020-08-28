@@ -160,7 +160,8 @@ The hardware landscape is changing quickly: Persistent Memory, High-Performance 
 #### Description
 The Women in DB Roundtable is a social event dedicated to sharing experiences and discussing ideas with leading women in the field. Topics include important meta-aspects of research such as stages of career and collaborations, as well as issues such as encouraging women to enter and advance in our field and dealing with biases. The discussion is relevant to students and researchers of all career levels, from academia and industry.
 
-![](/assets/files/VLDB2020-WomenInDB.png)
+<img style="width:400px;" src="/assets/files/VLDB2020-WomenInDB.png">
+
 [Download](/assets/files/VLDB2020-WomenInDB.pdf)
 
 ----
