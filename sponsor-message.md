@@ -6,7 +6,15 @@
 
 ![](https://vldb2020.org/assets/logo/logo_cygames.svg)
 
-<!-- Message from Sygames here.-->
+Cygames, Inc. (https://www.cygames.co.jp/en/) is a video game company
+pursuing its brand statement of being "The Best in Entertainment."
+Cygames has been providing incredible gaming experiences for users in
+the world. Cygames Research (https://research.cygames.co.jp) is an
+in-house research institution that helps the company to meet the
+technical challenges of Cygames’s mission to be the best in
+entertainment. The institution cooperates with a variety of public,
+private, and academic entities to advance technologies that will
+impact the entire games industry and the whole society.
 
 ## Diamond Sponsors
 
