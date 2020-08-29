@@ -1,5 +1,11 @@
 # VLDB2020: Session Chair Instructions
 
+
+## CONFERENCE REGISTRATION
+
+Please remember to register for the conference (it's FREE & super quick):  https://tokyo.vldb2020.org/
+
+
 ## Research and Industry Paper Sessions
 
 Thank you for volunteering to chair a research session! In those sessions, research and industry papers are intertwined but industry papers are labeled as such in the program.
@@ -17,23 +23,23 @@ Please **do NOT share** the zoom link on social media or anywhere else where it 
 
 Support:
 
-- **Session co-chairs**: You are a team of two co-chairs, one primary and one secondary. The responsibility of the primary chair is to introduce the speakers, manage the live Q&A after each paper, and manage the discussion at the end of the session. The responsibility of the secondary chair is to take over if the primary becomes unavailable and to help the primary if present.
-- **Technical chair**: A technical chair from Gateway Production will be present. That person will take care of streaming the videos when you give them the signal. They have all the videos and they know the order. The technical chair can also help answer other questions that may come up during the session.
+- **Session co-chairs**: You are a team of two co-chairs, one primary and one secondary. If your session is currently missing a co-chair, please ask a colleagues in the community if they would be willing to serve as your secondary. The responsibility of the primary chair is to introduce the speakers, manage the live Q&A after each paper, and manage the discussion at the end of the session. The responsibility of the secondary chair is to take over if the primary becomes unavailable and to help the primary if present.
+- **Technical chair**: A technical chair from Gateway Production will be present. That person will take care of streaming the videos when you give them the signal. They have all the videos and they know the order. The technical chair will also promote attendees to panelists, help you manage disruptive attendees, and can also help answer other questions that may come up during the session.
 - **Student volunteer**: A student volunteer will help you with two tasks:
     - Demote a disruptive person from panelist to attendee. We will ask the students to monitor and if they notice that someone is being disruptive, they will go ahead and demote them. If you notice that someone is disruptive, you can demote them directly yourself as well.
     - Copy over questions from the zoom Q&A to the Slack Channel. We will ask students to copy over all unanswered questions and, if possible, the questions that were answered (with their answers) as well.
-- **Slack channel**: Additional Gateway Productions support staff will also be present in a dedicated support slack channel. 
+- **Slack channel**: Additional Gateway Productions support staff will also be present in a dedicated support slack channel called "technicalsupport". 
 
 **Structure of a session**: Please run your session as follows
 - 2 minutes before session
-    - Arrive in the Zoom channel a minute or two early to check your camera/mic, identify yourself to the technical chair (who will promote you), and mitigate any technical difficulties. Please note that we have a limited number of zoom licenses so we need one set of sessions to end before the next set of sessions can begin.
+    - Arrive in the Zoom channel a minute or two early to check your camera/mic, identify yourself to the technical chair by typing a message into the chat window (the technical chair will promote you to co-host), and mitigate any technical difficulties. Please note that we have a limited number of zoom licenses so we need one set of sessions to end before the next set of sessions can begin.
 - First 5 minutes 
     - Take 2 minutes for miscellaneous chit-chat. Both the primary and secondary chair can greet attendees as a whole. You can say things like: “Welcome to this session on *&lt;title of the session&gt;*. We will begin shortly.” You can also say “hi” to specific people that you recognize. Please also greet the speakers who join the session. The goal is to create a sense of a community of people coming together. 
     - Primary chair should then begin the session and do the following:
         - Say: “Welcome to the session on *&lt;title of the session&gt;*.”
         - Say: “We have three exciting papers in this session.” [A few sessions have only two papers].
         - Introduce the three papers: Read the title and the name of the author who presents the paper in the video recording. Say the presenter’s full name properly (you can ask them ahead of time if you are not sure about the pronunciation).
-        - Indicate if the presenter or another author is at the session to answer live Q&A or not. If the author is not present, then all questions will have to go to Slack. The interactive program indicates when a presenter will be at the session (see label "Presenter"). We strongly recommend getting in touch with the authors and confirming who will present the paper and who will answer live Q&A.
+        - Indicate if the presenter or another author is at the session to answer live Q&A or not. If the author is not present, then all questions will have to go to Slack. The interactive program indicates when a presenter will be at the session (see label "Live Q&A"). We strongly recommend getting in touch with the authors and confirming who will present the paper and who will answer live Q&A.
         - Ask the attendees to keep their microphones muted to avoid disruptions.
     - For each paper
         - Ask the technical chair to play the recorded **10-min talk**
@@ -47,6 +53,7 @@ Support:
         - Make sure to end your session **7-10 min** before the end of the hour to give attendees enough time to get a coffee, get food, and stretch their legs before the next session. 
     - Slack discussion
         - Make sure there is at least one unanswered question on the slack channel for your session. If there were no questions left unanswered, then please come up with a new question. There needs to be a question to get the conversation going.
+        - Please note that Slack should be considered ephemeral. It will only show the most recent 10K messages. 
         - And then you are done! Thanks.
 
 
@@ -56,7 +63,7 @@ Thank you for volunteering to chair a demo session!
 
 **Logistics**: Each session will be a zoom webinar. To give attendees the experience of a shared event, all attendees will be upgraded to panelists. This means that they will be able to see each other, privately chat with each other, and speak. If an attendee is disruptive (voluntarily or involuntarily), they will be demoted to attendees, losing their audio privileges.
 
-**Zoom link**: You will find the link to the zoom webinar on the interactive conference program ([https://vldb2020.org/program.html](https://vldb2020.org/program.html)). Just click on your session and you should see buttons for Zoom, Slack, paper pdf, and technical support. We have a limited number of zoom licenses, so we need sessions to end before the next set of sessions can begin. The instructions below ask you to end even a few minutes earlier than that in order to give attendees a break before the next session.
+**Zoom link**: You will find the link to the zoom webinar on the interactive conference program ([https://vldb2020.org/program.html](https://vldb2020.org/program.html)). Just click on your session and you should see buttons for Zoom, Slack, paper pdf, and technical support. We have a limited number of zoom licenses, so we need sessions to end before the next set of sessions can begin. 
 
 Please **do NOT share** the zoom link on social media or anywhere else where it might be found by a malicious party.  If you wish to share a link, please use `https://vldb2020.org/program_flat.html?s=[Session ID]`, replacing `[Session ID]` with the 2-digit+letter ID of your session.  (e.g., `https://vldb2020.org/program_flat.html?s=47C`). Registered participants will be able to access the zoom link from this page.
 
@@ -67,16 +74,16 @@ Please **do NOT share** the zoom link on social media or anywhere else where it 
 
 **Support**: 
 
-- **Session co-chairs**: You are a team of two co-chairs, one primary and one secondary. The responsibility of the primary chair is to introduce the speakers, and manage the live Q&A after each paper. The responsibility of the secondary chair is to take over if the primary becomes unavailable and to help the primary if present.
+- **Session co-chairs**: You are a team of two co-chairs, one primary and one secondary. If your session is currently missing a co-chair, please ask a colleagues in the community if they would be willing to serve as your secondary. The responsibility of the primary chair is to introduce the speakers, and manage the live Q&A after each paper. The responsibility of the secondary chair is to take over if the primary becomes unavailable and to help the primary if present.
 - **Technical chair**: A technical chair from Gateway Production will be present. That person will take care of streaming the videos when you give them the signal. They have all the videos and they know the order. The technical chair can also help to answer other technical questions that may come up during the session.
 - **Student volunteer**: A student volunteer will help you with two tasks:
     - Demote a disruptive person from panelist to attendee. We will ask the students to monitor and if they notice that someone is being disruptive, they will go ahead and demote them. If you notice that someone is disruptive, you can demote them directly yourself as well.
     - Copy over unanswered questions from the zoom Q&A to the Slack Channel. We will ask them to make sure and copy all unanswered questions, but try to copy all questions if possible.
-- **Slack channel** Additional Gateway Productions support staff will also be present in a dedicated support slack channel. 
+- **Slack channel**: Additional Gateway Productions support staff will also be present in a dedicated support slack channel called "technicalsupport".
 
 **Structure of a session**: Please run your session as follows
 - 5 minutes before session
-    - Arrive in the Zoom channel early to check your camera/mic, identify yourself to the technical chair (who will promote you), and mitigate any technical difficulties.
+    - Arrive in the Zoom channel early to check your camera/mic, identify yourself to the technical chair by typing a message into the chat window (the technical chair will promote you to co-host), and mitigate any technical difficulties.
 - First 1 minute
     - Take 1 minute to greet people as they arrive and let them know that the session will begin shortly.
     - Let the audience know the format of the session: We have 5 (or 6) demonstrations in this session. Each demonstration will be presented in a 7-min video and then we will have time for one or two quick questions. I will let you know if there is an author present to answer a live question. Other questions should be asked on the slack channel. 
@@ -89,6 +96,7 @@ Please **do NOT share** the zoom link on social media or anywhere else where it 
     - Make sure to end your session 5 min before the end of the hour to give attendees a short break before the next session. If your session has 6 demos, then you will not have time for a break.
 - Slack discussion
     - Make sure there is at least one question on the slack channel for your session. If there were no questions left unanswered, then please come up with a new question. There needs to be a question to get the conversation going.
+    - Please note that Slack should be considered ephemeral. It will only show the most recent 10K messages. 
     - And then you are done! Thanks.
 
 ## Tutorial Sessions
@@ -103,13 +111,19 @@ Please **do NOT share** the zoom link on social media or anywhere else where it 
 
 **Before The Conference**: Please review the following training videos, which explain Zoom [webinar mode](https://vimeo.com/427831814) and Zoom’s [moderation tools](https://vimeo.com/430085119).
 
+
 **Support**: 
 
 - **Technical chair**: A technical chair from Gateway Production will be present. That person will take care of streaming your videos when you give them the signal. They have all the videos and they know the order. The technical chair can also help to answer other technical questions that may come up during the session.
 - **Student volunteer**: A student volunteer will help you with two tasks:
     - Demote a disruptive person from panelist to attendee. We will ask the students to monitor and if they notice that someone is being disruptive, they will go ahead and demote them. If you notice that someone is disruptive, you can demote them directly yourself as well.
     - Copy over unanswered questions from the zoom Q&A to the Slack Channel. We will ask the students to make sure and copy all unanswered questions, but also try to copy all questions if possible.
-- **Slack channel**: Additional Gateway Productions support staff will also be present in a dedicated support slack channel. 
+- **Slack channel**: Additional Gateway Productions support staff will also be present in a dedicated support slack channel called "technicalsupport". 
+
+**Slack Discussion**
+
+There is a Slack channel for your tutorial for questions and discussions. Please note that Slack should be considered ephemeral. It will only show the most recent 10K messages. 
+
 
 ## VLDBJ Paper Sessions
 
@@ -129,15 +143,15 @@ Please **do NOT share** the zoom link on social media or anywhere else where it 
 - **Student volunteer**: A student volunteer will help you with two tasks:
     - Demote a disruptive person from panelist to attendee. We will ask the students to monitor and if they notice that someone is being disruptive, they will go ahead and demote them. If you notice that someone is disruptive, you can demote them directly yourself as well.
     - Copy over unanswered questions from the zoom Q&A to the Slack Channel. We will ask the students to make sure and copy all unanswered questions, but also try to copy all questions if possible.
-- **Slack channel**: Additional Gateway Productions support staff will also be present in a dedicated support slack channel. 
+- **Slack channel**: Additional Gateway Productions support staff will also be present in a dedicated support slack channel called "technicalsupport". 
 
 **Structure of a session**: Please run your session as follows
 
-- 5 minutes before session
-    - Arrive in the Zoom channel early to check your camera/mic, identify yourself to the technical chair (who will promote you), and mitigate any technical difficulties.
+- 5 minutes before the session
+    - Arrive in the Zoom channel early to check your camera/mic, identify yourself to the technical chair by typing a message into the chat window (the technical chair will promote you to co-host), and mitigate any technical difficulties.
 - First 1 minute 
     - Take 1 minute to greet people as they arrive and let them know that the session will begin shortly.
-    - Let the audience know the format of the session: VLDBJ papers will be presented in short, 4-min videos. There will be no live Q&A, but everyone is welcome to ask questions on the slack channel.
+    - Let the audience know the format of the session: VLDBJ papers will be presented in short, 4-min videos. There will be no live Q&A, but everyone is welcome to ask questions on the Slack channel. Please note that Slack should be considered ephemeral. It will only show the most recent 10K messages. 
     - Then all you have to do is to ask the technical chair to stream the videos.
     - Please remain online to make sure all is going well and to answer any questions if an audience member raises a question using the zoom Q&A or chat features.
 
@@ -145,14 +159,19 @@ Please **do NOT share** the zoom link on social media or anywhere else where it 
 
 Thank you so much for helping VLDB'20 in the role of technical round table chairs!
 
-The round tables will run as zoom meetings and will be 60 min in duration. They are meant to be discussions (no slides, no panelists).
+The round tables will run as a zoom webinar but with all attendees promoted to panelists, so that everyone can see each other and talk, and will be 60 min in duration. They are meant to be discussions (no slides, no panelists). You will find the link to the zoom meeting on the interactive conference program ([https://vldb2020.org/program.html](https://vldb2020.org/program.html)).
 
 We recommend the following:
 - Invite 3-4 experts in the field to join the round table (they should also ask their students and postdocs to join the round table).
 - Prepare a couple of starter questions / statements to get the conversation going.
 
+**Technical Support**: A technical chair from Gateway Production will be present.  When you join the zoom webinar, please identify yourself to the technical chair by typing a message into the chat window. The technical chair will promote you to co-host. Additional Gateway Productions support staff will also be present in a dedicated support slack channel called "technicalsupport". 
+
 When you run the round table, spend some time at the beginning for people to introduce themselves and perhaps say something about their own research/interests in this space. Although the details of how you run your round table is up to you.
 
 Please **do NOT share** the zoom link on social media or anywhere else where it might be found by a malicious party.  If you wish to share a link, please use `https://vldb2020.org/program_flat.html?s=[Session ID]`, replacing `[Session ID]` with the 2-digit+letter ID of your session.  (e.g., `https://vldb2020.org/program_flat.html?s=47C`). Registered participants will be able to access the zoom link from this page.
+
+**Slack channel**: There is a slack channel set up for your round table for additional discussions. Please note that Slack should be considered ephemeral. It will only show the most recent 10K messages. 
+
 
 Thanks again for doing this!

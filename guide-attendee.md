@@ -1,4 +1,4 @@
 
-# VLDB2020:  Guide For Attendees
+# VLDB2020:  Attendee Instructions
 
 Blah Blah Blah.
