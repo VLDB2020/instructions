@@ -18,13 +18,12 @@ You can customize your avatar's appearance (a variety of gender presentations an
 
 As your character gets closer to other people's characters, their webcam feeds will start appearing at the top of your screen.  You can control the distance at which this happens using the Interaction Distance setting (this is the one that looks like a series of concentric circles).  Clicking on this button will cycle through the setting (more circles = further away).
 
-![Interaction Distance](gather-interaction_distance.png)
-
-
 #### The Space
 
 VLDB's Gather space is divided into four zones.  The Main Conference Area (where you start), The Bar (Head north/up from the main area), Outside (Head south/down from the main area), and Social Space (accessible via "stairs" at the center of the main area).  If you're looking to meet up with someone, let them know where you are!
 
 If you need people to meet up in a precise location, there are four designated discussion areas in the Social Space: A (Light Green-Northeast), B (Light Red-Northwest), C (Light Green-Southwest), and D (Light Red-Southeast)
+
+![Discussion Areas](gather-discussion_area.png)
 
 Have fun.
