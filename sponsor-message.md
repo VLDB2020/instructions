@@ -95,6 +95,8 @@ To learn more about Amazon, join us on September 1 for a Tech Talk (https://vldb
 
 We’re a diverse collection of thinkers and doers, continually reimagining what’s possible to help us all do what we love in new ways. The people who work here have reinvented entire industries with the iPhone, iPad, Mac, Apple Watch and Apple TV, as well as with services, including the App Store, Apple Music, Apple Pay and iCloud. And the same passion for innovation that goes into our products also applies to our practices? strengthening our commitment to leave the world better than we found it.
 
+[Job Card](https://vldb2020.org/assets/files/Apple-Job-Card-VLDB-2020.pdf)
+
 
 ### Baidu
 
@@ -115,6 +117,8 @@ CyberAgent has been expanding its businesses based on the internet industry. It 
 ![](https://vldb2020.org/assets/logo/logo_facebook.svg)
 
 Join this session with the Facebook PhD recruiting, academic relations, and research teams to learn more about opportunities to engage at Facebook.  www.research.fb.com 
+
+[Facebook at the International Conference on Very Large Databases 2020](https://research.fb.com/conferences/international-conferences-on-very-large-databases-vldb-2020/)
 
 ### Hitachi
 
@@ -139,7 +143,8 @@ There is no AI without algorithms. In our pursuit of fluid intelligence, we are 
 
 In parallel, we’re delivering secure, trusted AI with work focused on explainability, fairness, and bias reduction, and empowering AI creators with AI engineering tools and capabilities that simplify and automate key tasks like data preparation, training and lifecycle management.
 
-Finally, we’re developing a new class of AI hardware that is inherently energy-sufficient, increasing compute power by orders of magnitude without the demand for increased energy. To learn more visit: [https://www.draco.res.ibm.com/ai](https://www.draco.res.ibm.com/ai)
+Finally, we’re developing a new class of AI hardware that is inherently energy-sufficient, increasing compute power by orders of magnitude without the demand for increased energy. To learn more visit: https://www.draco.res.ibm.com/ai
+
 
 See also: [Residency Program](/assets/files/ibm_residency.pdf), [Recruiting Program](/assets/files/ibm_recruiting.pdf)
 
@@ -149,11 +154,13 @@ See also: [Residency Program](/assets/files/ibm_residency.pdf), [Recruiting Prog
 - [IBM Research's 2020 AI Predictions](https://www.youtube.com/watch?v=jwZHW1J7TX0)
 
 *Other Videos:*
+- [IBM Db2 Graph- Supporting Synergistic and Retrofittable Graph Queries Inside IBM Db2](https://www.youtube.com/watch?v=CwT_898Zkzk&feature=youtu.be)
 - [The Debater -What happens when AI stops playing games?](https://www.youtube.com/watch?v=NSxVEaWEUjk&t=154s)
 - [ExBERT: A Visual Tool to Explore BERT](https://youtu.be/Dtw1lcFg3Ss)
 - [AutoAI for Time Series](https://youtu.be/okIVc6dlaAM)
 - [Explainable Link Prediction](https://www.youtube.com/watch?v=p4wLjvqGrVc&feature=youtu.be)
-- [IBM Db2 Graph: Supporting Synergistic and Retrofittable Graph Queries Inside IBM Db2](https://www.youtube.com/watch?v=CwT_898Zkzk&feature=youtu.be)
+- [Partner](https://www.youtube.com/watch?v=Q1zgmZCOs6A&feature=youtu.be)
+- [SystemER](https://www.youtube.com/watch?v=nsRAONFU_ak&amp;feature=youtu.be)
 
 *Content links:*
 - [Join our Research Career Network](https://www.surveygizmo.com/s3/5601439/vldb2020)
