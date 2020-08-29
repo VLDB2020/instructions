@@ -8,5 +8,6 @@ Please **do NOT share** the zoom link on social media or anywhere else where it 
 
 **Support**:
 - **Technical chair**: A technical chair from Gateway Production will be present. That person will take care of streaming the videos when you give them the signal. They have all the videos and they know the order. The technical chair can also help answer other questions that may come up during the session.
+    - Note that, while the technical chairs will be listening for your spoken instructions, they will remain muted for the duration of the session.  If the technical chair needs to communicate with you, it will be through chat, so **please monitor the Zoom chat window**.
 - **Slack channel**: Additional Gateway Productions support staff will also be present in a dedicated support slack channel. 
 

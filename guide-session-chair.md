@@ -25,6 +25,7 @@ Support:
 
 - **Session co-chairs**: You are a team of two co-chairs, one primary and one secondary. If your session is currently missing a co-chair, please ask a colleagues in the community if they would be willing to serve as your secondary. The responsibility of the primary chair is to introduce the speakers, manage the live Q&A after each paper, and manage the discussion at the end of the session. The responsibility of the secondary chair is to take over if the primary becomes unavailable and to help the primary if present.
 - **Technical chair**: A technical chair from Gateway Production will be present. That person will take care of streaming the videos when you give them the signal. They have all the videos and they know the order. The technical chair will also promote attendees to panelists, help you manage disruptive attendees, and can also help answer other questions that may come up during the session.
+    - Note that, while the technical chairs will be listening for your spoken instructions, they will remain muted for the duration of the session.  If the technical chair needs to communicate with you, it will be through chat, so **please monitor the Zoom chat window**.
 - **Student volunteer**: A student volunteer will help you with two tasks:
     - Demote a disruptive person from panelist to attendee. We will ask the students to monitor and if they notice that someone is being disruptive, they will go ahead and demote them. If you notice that someone is disruptive, you can demote them directly yourself as well.
     - Copy over questions from the zoom Q&A to the Slack Channel. We will ask students to copy over all unanswered questions and, if possible, the questions that were answered (with their answers) as well.
@@ -76,6 +77,7 @@ Please **do NOT share** the zoom link on social media or anywhere else where it 
 
 - **Session co-chairs**: You are a team of two co-chairs, one primary and one secondary. If your session is currently missing a co-chair, please ask a colleagues in the community if they would be willing to serve as your secondary. The responsibility of the primary chair is to introduce the speakers, and manage the live Q&A after each paper. The responsibility of the secondary chair is to take over if the primary becomes unavailable and to help the primary if present.
 - **Technical chair**: A technical chair from Gateway Production will be present. That person will take care of streaming the videos when you give them the signal. They have all the videos and they know the order. The technical chair can also help to answer other technical questions that may come up during the session.
+    - Note that, while the technical chairs will be listening for your spoken instructions, they will remain muted for the duration of the session.  If the technical chair needs to communicate with you, it will be through chat, so **please monitor the Zoom chat window**.
 - **Student volunteer**: A student volunteer will help you with two tasks:
     - Demote a disruptive person from panelist to attendee. We will ask the students to monitor and if they notice that someone is being disruptive, they will go ahead and demote them. If you notice that someone is disruptive, you can demote them directly yourself as well.
     - Copy over unanswered questions from the zoom Q&A to the Slack Channel. We will ask them to make sure and copy all unanswered questions, but try to copy all questions if possible.
@@ -115,6 +117,7 @@ Please **do NOT share** the zoom link on social media or anywhere else where it 
 **Support**: 
 
 - **Technical chair**: A technical chair from Gateway Production will be present. That person will take care of streaming your videos when you give them the signal. They have all the videos and they know the order. The technical chair can also help to answer other technical questions that may come up during the session.
+    - Note that, while the technical chairs will be listening for your spoken instructions, they will remain muted for the duration of the session.  If the technical chair needs to communicate with you, it will be through chat, so **please monitor the Zoom chat window**.
 - **Student volunteer**: A student volunteer will help you with two tasks:
     - Demote a disruptive person from panelist to attendee. We will ask the students to monitor and if they notice that someone is being disruptive, they will go ahead and demote them. If you notice that someone is disruptive, you can demote them directly yourself as well.
     - Copy over unanswered questions from the zoom Q&A to the Slack Channel. We will ask the students to make sure and copy all unanswered questions, but also try to copy all questions if possible.
@@ -140,6 +143,7 @@ Please **do NOT share** the zoom link on social media or anywhere else where it 
 **Support**: 
 
 - **Technical chair**: A technical chair from Gateway Production will be present. That person will take care of streaming the videos when you give them the signal. They have all the videos and they know the order. The technical chair can also help to answer other technical questions that may come up during the session.
+    - Note that, while the technical chairs will be listening for your spoken instructions, they will remain muted for the duration of the session.  If the technical chair needs to communicate with you, it will be through chat, so **please monitor the Zoom chat window**.
 - **Student volunteer**: A student volunteer will help you with two tasks:
     - Demote a disruptive person from panelist to attendee. We will ask the students to monitor and if they notice that someone is being disruptive, they will go ahead and demote them. If you notice that someone is disruptive, you can demote them directly yourself as well.
     - Copy over unanswered questions from the zoom Q&A to the Slack Channel. We will ask the students to make sure and copy all unanswered questions, but also try to copy all questions if possible.
@@ -166,6 +170,8 @@ We recommend the following:
 - Prepare a couple of starter questions / statements to get the conversation going.
 
 **Technical Support**: A technical chair from Gateway Production will be present.  When you join the zoom webinar, please identify yourself to the technical chair by typing a message into the chat window. The technical chair will promote you to co-host. Additional Gateway Productions support staff will also be present in a dedicated support slack channel called "technicalsupport". 
+    - Because of the large number of concurrent events taking place during the social sessions, the technical chair may not be monitoring audio for your session at all times.  To communicate with your technical chair, please use the Zoom chat window.  Similarly, if the technical chair needs to communicate with you, it will be through chat, so **please monitor the Zoom chat window**.
+
 
 When you run the round table, spend some time at the beginning for people to introduce themselves and perhaps say something about their own research/interests in this space. Although the details of how you run your round table is up to you.
 
