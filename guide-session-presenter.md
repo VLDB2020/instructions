@@ -81,3 +81,22 @@ will be presented in session 03A and repeated in session 52A. **Verify the times
 available during at least one of the two sessions. If you are able to have someone present during both sessions, that would be best, but it is not required. Please 
 check that the information about who will be present is accurate. If it is inaccurate, please email the PC chairs (magda@cs.washington.edu and zxf@itee.uq.edu.au).
 
+## PRESENTATION INSTRUCTIONS FOR VLDBJ PAPERS
+
+Congratulations on your paper!
+
+**Session Logistics**
+- Each session will be a zoom webinar, but we will try to upgrade all attendees to panelist so they can see each other, chat with each other, and in general have a sense of a community coming together.
+- For each paper, we will play the recorded video.
+- There will be no live Q&A.
+- All questions will be posted on Slack.
+- You do not have to attend the session since there is no live Q&A, but you are welcome to do so.
+- During and after the session, please check the slack channel to answer questions about your paper and engage in discussion. We encourage you to continue
+checking the slack channel for the remainder of the conference. Please note that Slack is ephemeral. It will only keep and display the most recent 10K messages.
+
+**Zoom and Slack links**: You will find the links to the zoom webinars and the slack channel on the conference program ([https://vldb2020.org/program.html](https://vldb2020.org/program.html)). Just click on your session and you should see buttons for Zoom, Slack, paper pdf, and technical support. 
+
+Please **do NOT share** any zoom links on social media or anywhere else where it might be found by a malicious party.  If you wish to share a link, please use `https://vldb2020.org/program_flat.html?s=[Session ID]`, replacing `[Session ID]` with the 2-digit+letter ID of your session.  (e.g., `https://vldb2020.org/program_flat.html?s=47C`). Registered participants will be able to access the zoom link from this page.
+
+
+
