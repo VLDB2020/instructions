@@ -133,9 +133,37 @@ http://www.hitachi.com/products/it/lumada/global/en/about/index.html
 
 ![](https://vldb2020.org/assets/logo/logo_ibm.svg)
 
+*IBM Research AI*
+
 There is no AI without algorithms. In our pursuit of fluid intelligence, we are continuing to advance our work in deep learning, and are putting significant investment into neurosymbolic AI, which combines the power of neural networks with symbolic methods to help AI reason more effectively.
+
 In parallel, we’re delivering secure, trusted AI with work focused on explainability, fairness, and bias reduction, and empowering AI creators with AI engineering tools and capabilities that simplify and automate key tasks like data preparation, training and lifecycle management.
-Finally, we’re developing a new class of AI hardware that is inherently energy-sufficient, increasing compute power by orders of magnitude without the demand for increased energy. To learn more visit: https://www.draco.res.ibm.com/ai
+
+Finally, we’re developing a new class of AI hardware that is inherently energy-sufficient, increasing compute power by orders of magnitude without the demand for increased energy. To learn more visit: [https://www.draco.res.ibm.com/ai](https://www.draco.res.ibm.com/ai)
+
+See also: [Residency Program](/assets/files/ibm_residency.pdf), [Recruiting Program](/assets/files/ibm_recruiting.pdf)
+
+<small>
+
+*Intro Video:*
+- [IBM Research's 2020 AI Predictions](https://www.youtube.com/watch?v=jwZHW1J7TX0)
+
+*Other Videos:*
+- [The Debater -What happens when AI stops playing games?](https://www.youtube.com/watch?v=NSxVEaWEUjk&t=154s)
+- [ExBERT: A Visual Tool to Explore BERT](https://youtu.be/Dtw1lcFg3Ss)
+- [AutoAI for Time Series](https://youtu.be/okIVc6dlaAM)
+- [Explainable Link Prediction](https://www.youtube.com/watch?v=p4wLjvqGrVc&feature=youtu.be)
+- [IBM Db2 Graph: Supporting Synergistic and Retrofittable Graph Queries Inside IBM Db2](https://www.youtube.com/watch?v=CwT_898Zkzk&feature=youtu.be)
+
+*Content links:*
+- [Join our Research Career Network](https://www.surveygizmo.com/s3/5601439/vldb2020)
+- [Learn more about IBM AI Residency Program](https://www.surveygizmo.com/s3/5636060/AIResidency2021RegisterYourInterest)
+- [Try our IBM Research Experiments](https://www.draco.res.ibm.com/experiments)
+- [Learn more about MIT-IBM Watson AI lab](https://mitibmwatsonailab.mit.edu/)
+- Read our blog about the IBM presence at VLDB 2020
+- [Stay up to date with the latest announcements, research, and events from IBM Research through our newsletter](https://www.ibm.com/account/reg/us-en/signup?formid=urx-44015)
+- [Visit our COVID-19 website to see IBM's response to this global challenge](https://www.ibm.com/impact/covid-19/?lnk=ushpv18l1)
+</small>
 
 ### Line
 
