@@ -8,7 +8,7 @@ Gather is a virtual environment that lets you freely move around and socialize w
 The basic idea is simple: Gather sets up a video chat between you and anyone else close to your character on the screen.
 To move your character, use arrow keys, or the 'w' (↑), 'a' (←), 's' (↓), and 'd' (→) keys on your keyboard.
 
-![Gather Interface](instructions/gather.png)
+<img src="instructions/gather.png" style="width:100%;">
 
 When you first open up gather, you'll see a screen like the one above.
 Your avatar will be at the center of the screen, in the middle of a virtual environment.  You'll see a list of participants logged in to gather and a chat window on the right.  Your webcam will be at the lower right and a settings menu will be at the bottom of the screen.
