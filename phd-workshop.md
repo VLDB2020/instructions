@@ -78,8 +78,8 @@
 * [Virtual Conference Room on Zoom](https://tokyo.vldb2020.org/?tg=session&go=conference&id=id!W2_5) (The same URL of the previous session)
 * [Slack Channel](https://tokyo.vldb2020.org/?tg=session&go=chat&id=id!W2_5) (The same URL of the previous session)
 
-|  Title   | Author   |
-| -------- | -------- |
+| Video |  Title   | Author   |
+| ----- | -------- | -------- |
 | [<i class="fab fa-youtube"></i>](https://tokyo.vldb2020.org/?tg=paper&go=video&id=pid!W2_5-2) | Elastic Query Processing on Function as a Service Platforms     | Thomas Bodner (Hasso Plattner Institute)     |
 | [<i class="fab fa-youtube"></i>](https://tokyo.vldb2020.org/?tg=paper&go=video&id=pid!W2_5-3) | Resilient and Scalable Architecture for Permissioned Blockchain Fabrics     | Suyash Gupta (University of California Davis)     |
 | [<i class="fab fa-youtube"></i>](https://tokyo.vldb2020.org/?tg=paper&go=video&id=pid!W2_5-4) | Reliable Clustering with Applications to  Data Integration     | Sainyam Galhotra (University of Massachusetts Amherst)     |
