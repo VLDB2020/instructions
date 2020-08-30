@@ -13,13 +13,13 @@
 | Video |  Title   | Author   |
 | ----- | -------- | -------- |
 | [<i class="fab fa-youtube"></i>](https://tokyo.vldb2020.org/?tg=paper&go=video&id=pid!W1_5-1) | Complex Event Processing for the Internet of Things     | Ariane Ziehn (DFKI GmbH)     |
-|N/A| Unsupervised Subsequence Anomaly Detection in Large Sequences     | Paul Boniol (Université de Paris)     |
+| [<i class="fab fa-youtube"></i>](https://tokyo.vldb2020.org/?tg=paper&go=video&id=pid!W1_5-2) | Unsupervised Subsequence Anomaly Detection in Large Sequences     | Paul Boniol (Université de Paris)     |
 | [<i class="fab fa-youtube"></i>](https://tokyo.vldb2020.org/?tg=paper&go=video&id=pid!W1_5-3) | Complex Event Processing on Real-time Video Streams     | Ziyu Li (Delft University of Technology)     |
 
  
 ### Session 2: Artificial Intelligence
  
- * Start: <span class="timeUTC">2020-08-31T09:20:00Z</span>
+* Start: <span class="timeUTC">2020-08-31T09:20:00Z</span>
 * Duration: 60 min
 * Chair: Katja and Ziawasch
 * [Zoom Meeting Room](https://tokyo.vldb2020.org/?tg=session&go=conference&id=id!W1_5) (The same URL of the previous session)
@@ -38,7 +38,7 @@
 * Chair: Katja and Ziawasch
 * [Zoom Meeting Room](https://tokyo.vldb2020.org/?tg=session&go=conference&id=id!W1_5) (The same URL of the previous session)
 * [Slack Channel](https://tokyo.vldb2020.org/?tg=session&go=chat&id=id!W1_5) (The same URL of the previous session)
-* 
+ 
 | Video |  Title   | Author   |
 | ----- | -------- | -------- |
 | [<i class="fab fa-youtube"></i>](https://tokyo.vldb2020.org/?tg=paper&go=video&id=pid!W1_5-7) | Secure Data Processing at Scale     | Kajetan Jeremi Maliszewski (Technische Universität Berlin)     |
