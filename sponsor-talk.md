@@ -1,26 +1,6 @@
 # VLDB2020: Sponsor Talks
 
-## Megagon Labs (Day 1, Block 2) [05S]
-
-> Start at <span class="timeUTC">2020-09-01T12:00:00Z</span>
-
-### Research on semantic types and language models at Megagon Labs
-* Speakers: Çağatay Demiralp (presenting Sato) and Yuliang Li (presenting Ditto)
-
-#### Abstract
-Sato: Detecting the semantic types of data columns in relational tables is useful for myriad data preparation and information retrieval tasks such as data cleaning, schema matching, data discovery, and semantic search. We introduce Sato, a new learned model to automatically detect the semantic types of columns in tables, exploiting the signals from the context as well as the column values. Sato combines a deep learning model trained on a large-scale table corpus with topic modeling and structured prediction, outperforming the state-of-the-art by a large margin.
-
-Ditto: We present Ditto, a novel entity matching (EM) system based on pre-trained language models. Ditto fine-tunes the language models and casts EM as a sequence-pair classification problem with a simple architecture. With optimizations such as injecting domain knowledge and data augmentation, Ditto achieves new state-of-the-art matching accuracies while being 2X more label-efficient than existing EM solutions.
-
-#### Profiles of speakers:
-
-Çağatay Demiralp is Senior Research Scientist at Megagon Labs. Çağatay’s research at Megagon focuses on solving problems at the intersection of Data Systems + Artificial Intelligence + Human-Computer Interaction at scale. Previously, he was a visiting researcher with the data systems group at MIT CSAIL and a research staff member at IBM Research. Between 2012-2014, Çağatay was a postdoctoral scholar at Stanford University and a member of IDL at the University of Washington. He obtained his Ph.D. from Brown University.
-
-Yuliang Li is a senior research scientist at the Megagon Labs. He received his Ph.D. degree in computer science from UC San Diego where he was a member of the DB Lab. His research interests include data management, database theory, formal verification, and data mining.
-
-----
-
-## NEC (Day 1, Block 4) [19S]
+## Megagon Labs (Day 1, Block 2) [10S]
 
 > Start at <span class="timeUTC">2020-09-02T06:00:00Z</span>
 
