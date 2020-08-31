@@ -24,14 +24,14 @@ While the conference, the VLDB 2020 organizer will send an e-mail that contains 
 ## Now Publishers
 ![](https://vldb2020.org/assets/logo/logo_now.svg)
 
-We make our **relevant Foundations and Trends journals (FnT) content free** to all registered attendees **for the duration of the conference**.
+We are making our relevant **Foundations and Trends journals (FnT)** content free to all registered attendees **for the duration of the conference**. See www.nowpublishers.com/Conference/VLDB2020
 
-For VLDB 2020, we make the content of the following FnTs freely available:
-* FnT Databases
-* FnT Information retrieval
-* FnT Machine Learning
+Attendees can download up to **10 titles** from the following FnTs using the access code provided by the VLDB organizers:
+* FnT Databases - Editors-in-chief: Joe Hellerstein and Surajit Chaudhuri
+* FnT Information retrieval - Editors-in-chief: Martin de Rijke, Yiqun Liu and Diane Kelly
+* FnT Machine Learning - Editor-in-chief: Mike Jordan
 
-While the conference, the VLDB 2020 organizer will send an e-mail that contain the URL of the publisher’s special website and Access Code.
+During the conference, the VLDB 2020 organizer will send an e-mail that contains the URL of the publisher's special website and the Access Code.
 
 ----
 
