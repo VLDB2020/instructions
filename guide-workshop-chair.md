@@ -1,6 +1,7 @@
 # VLDB2020: Workshop Chair Instructions
 
 2 minutes before session, arrive in the Zoom channel a minute or two early to check your camera/mic, identify yourself to the technical chair by typing a message into the chat window (the technical chair will promote you to co-host), and mitigate any technical difficulties. Please note that we have a limited number of zoom licenses so we need one set of sessions to end before the next set of sessions can begin.
+In addition, ask the technical chair to upgrade all attendees to panelists such that everyone gets to see everyone (Or, you can do it by yourself after becoming a co-host).
 
 **Zoom link**: You will find the link to the zoom webinar for your workshop on the interactive conference program ([https://vldb2020.org/program.html](https://vldb2020.org/program.html)). Just click on your session and you should see buttons for Zoom, Slack, paper pdf, and technical support. 
 
