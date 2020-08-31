@@ -159,7 +159,7 @@ Please **do NOT share** the zoom link on social media or anywhere else where it 
     - Take 1 minute to greet people as they arrive and let them know that the session will begin shortly.
     - Let the audience know the format of the session: VLDBJ papers will be presented in short, 4-min videos. There will be no live Q&A, but everyone is welcome to ask questions on the Slack channel. Please note that Slack should be considered ephemeral. It will only show the most recent 10K messages. 
     - Then all you have to do is to ask the technical chair to stream the videos.
-    - Please remain online to make sure all is going well and to answer any questions if an audience member raises a question using the zoom Q&A or chat features.
+    - Please remain online to make sure all is going well and to provide support for the attendees. For example, if someone in the audience puts a question into the zoom Q&A, you can answer with: "For VLDBJ sessions, we are taking all questions over Slack, can you please ask your question there?" or if someone asks: "Will there be live Q&A at the end of the session?" you can answer: "No. All Q&A for VLDBJ sessions is over Slack."
 
 ## Technical Round Tables
 
