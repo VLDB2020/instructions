@@ -1,9 +1,11 @@
 # VLDB2020: Session Chair Instructions
 
 
-## CONFERENCE REGISTRATION
+## CONFERENCE & SLACK REGISTRATION
 
 Please remember to register for the conference (it's FREE & super quick):  https://tokyo.vldb2020.org/
+
+And also please register for Slack: https://tokyo.vldb2020.org/?slack=signup
 
 
 ## Research and Industry Paper Sessions
