@@ -93,7 +93,7 @@ To learn more about Amazon, join us on September 1 for a Tech Talk (https://vldb
 
 ![](https://vldb2020.org/assets/logo/logo_apple.svg)
 
-We’re a diverse collection of thinkers and doers, continually reimagining what’s possible to help us all do what we love in new ways. The people who work here have reinvented entire industries with the iPhone, iPad, Mac, Apple Watch and Apple TV, as well as with services, including the App Store, Apple Music, Apple Pay and iCloud. And the same passion for innovation that goes into our products also applies to our practices? strengthening our commitment to leave the world better than we found it.
+We’re a diverse collection of thinkers and doers, continually reimagining what’s possible to help us all do what we love in new ways. The people who work here have reinvented entire industries with the iPhone, iPad, Mac, Apple Watch and Apple TV, as well as with services, including the App Store, Apple Music, Apple Pay and iCloud. And the same passion for innovation that goes into our products also applies to our practices -- strengthening our commitment to leave the world better than we found it.
 
 [Job Card](https://vldb2020.org/assets/files/Apple-Job-Card-VLDB-2020.pdf)
 
