@@ -7,6 +7,11 @@ Please remember to register for the conference (it's FREE & super quick):  http
 
 And also please register for Slack: https://tokyo.vldb2020.org/?slack=signup
 
+## General Notes
+
+As session chairs, please **turn ON your camera**. Please ask all presenters to turn on their cameras. This will make your session a lot friendlier.
+
+Additionally, please make sure that all attendees get upgraded to panelists (you can ask your technical chair to do that). At that point, they won't be able to use the zoom Q&A feature. If your session is small, you can have people raise their hand and speak. If it's larger, you can ask people to paste their questions into the chat. Please use whichever you prefer.
 
 ## Research and Industry Paper Sessions
 
