@@ -12,9 +12,15 @@ While the conference, the VLDB 2020 organizer will send an e-mail that contains 
 ## Morgan & Claypool
 ![](https://vldb2020.org/assets/logo/logo_morgan_claypool.svg)
 
-We generated a URL Token that will provide VLDB attendees with access to **all of the PDF ebooks** in our **Data Management series** edited by H.V. Jagadish from **August 30 through September 30**. When users click the Token below, it will bring them to our Synthesis digital library and prompt them to register for a free account; this account will be granted access to download all of the 60+ published titles listed on our Data Management series page.
+We offer a Token URL that will provide VLDB attendees with access to all of
+the PDF ebooks in our *Data Management* series edited by H.V. Jagadish from
+*August 30 through September 30*. The Token link will bring users to our
+Synthesis digital library and prompt them to register for a free account;
+this account will be granted access to download all of the 60+ published
+titles listed on our Data Management series page.
 
-While the conference, the VLDB 2020 organizer will send an e-mail that contains the URL Token.
+During the conference, the VLDB 2020 organizer will send an e-mail that
+contains the URL Token.
 
 * Data Management series page: https://www.morganclaypool.com/toc/dtm/1/1
 * Activation dates: 8/30/2020-9/30/2020
