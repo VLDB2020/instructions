@@ -35,12 +35,12 @@ Support:
     - Note that, while the technical chairs will be listening for your spoken instructions, they will remain muted for the duration of the session.  If the technical chair needs to communicate with you, it will be through chat, so **please monitor the Zoom chat window**.
 - **Student volunteer**: A student volunteer will help you with two tasks:
     - Demote a disruptive person from panelist to attendee. We will ask the students to monitor and if they notice that someone is being disruptive, they will go ahead and demote them. If you notice that someone is disruptive, you can demote them directly yourself as well.
-    - Copy over questions from the zoom Q&A to the Slack Channel. We will ask students to copy over all unanswered questions and, if possible, the questions that were answered (with their answers) as well.
+    - Copy over questions from the zoom Q&A (or chat) to the Slack Channel. We will ask students to copy over all unanswered questions and, if possible, the questions that were answered (with their answers) as well.
 - **Slack channel**: Additional Gateway Productions support staff will also be present in a dedicated support slack channel called "technicalsupport". 
 
 **Structure of a session**: Please run your session as follows
 - 2 minutes before session
-    - Arrive in the Zoom channel a minute or two early to check your camera/mic, identify yourself to the technical chair by typing a message into the chat window (the technical chair will promote you to co-host), and mitigate any technical difficulties. Please note that we have a limited number of zoom licenses so we need one set of sessions to end before the next set of sessions can begin.
+    - Arrive in the Zoom channel a minute or two early to check your camera/mic, identify yourself to the technical chair by typing a message into the chat window (the technical chair will promote you to co-host), and mitigate any technical difficulties. Please note that we have a limited number of zoom licenses so we need one set of sessions to end before the next set of sessions can begin. Please turn ON your camera and ask your co-chair and speakers to turn on their cameras as well. This will make your session a lot friendlier.
 - First 5 minutes 
     - Take 2 minutes for miscellaneous chit-chat. Both the primary and secondary chair can greet attendees as a whole. You can say things like: “Welcome to this session on *&lt;title of the session&gt;*. We will begin shortly.” You can also say “hi” to specific people that you recognize. Please also greet the speakers who join the session. The goal is to create a sense of a community of people coming together. 
     - Primary chair should then begin the session and do the following:
@@ -51,7 +51,7 @@ Support:
         - Ask the attendees to keep their microphones muted to avoid disruptions.
     - For each paper
         - Ask the technical chair to play the recorded **10-min talk**
-        - If an author is present to answer live questions, follow the paper by **2-5 min of questions using the zoom Q&A feature**. If authors of all three papers are present, aim for 2-3 min of questions. If only a subset of authors are present, you can have more time for questions for those papers.
+        - If an author is present to answer live questions, follow the paper by **2-5 min of questions**. If authors of all three papers are present, aim for 2-3 min of questions. If only a subset of authors are present, you can have more time for questions for those papers. As noted above, once we upgrade the attendees to panelists, they won't be able to ask questions using the Q&A feature. In that case, please ask them to paste their questions into the chat or to raise their hand and speak. Please use whichever you prefer.
     - Final discussion
         - After all the papers have been presented, you can have a group discussion.
         - The primary chair should start the discussion by asking a broad question to all authors (a panel-style question).
@@ -92,7 +92,7 @@ Please **do NOT share** the zoom link on social media or anywhere else where it 
 
 **Structure of a session**: Please run your session as follows
 - 5 minutes before session
-    - Arrive in the Zoom channel early to check your camera/mic, identify yourself to the technical chair by typing a message into the chat window (the technical chair will promote you to co-host), and mitigate any technical difficulties.
+    - Arrive in the Zoom channel early to check your camera/mic, identify yourself to the technical chair by typing a message into the chat window (the technical chair will promote you to co-host), and mitigate any technical difficulties. Please turn ON your camera and ask your co-chair and speakers to turn on their cameras as well. This will make your session a lot friendlier.
 - First 1 minute
     - Take 1 minute to greet people as they arrive and let them know that the session will begin shortly.
     - Let the audience know the format of the session: We have 5 (or 6) demonstrations in this session. Each demonstration will be presented in a 7-min video and then we will have time for one or two quick questions. I will let you know if there is an author present to answer a live question. Other questions should be asked on the slack channel. 
@@ -100,7 +100,7 @@ Please **do NOT share** the zoom link on social media or anywhere else where it 
 - For each demo
     - Introduce the demonstration by reading its title and saying the name and affiliation of the author who will present the demonstration in the recorded video.
     - Ask the technical chair to play the recorded **7-min demonstration**.
-    - If an author is present to answer live questions, follow the recorded demo with **1 min of questions using the zoom Q&A feature**. This really means enough time for 1 or 2 quick questions. The program indicates which author (if any) are present to answer live demo questions.
+    - If an author is present to answer live questions, follow the recorded demo with **1 min of questions**. This really means enough time for 1 or 2 quick questions. The program indicates which author (if any) are present to answer live demo questions. As noted above, once we upgrade the attendees to panelists, they won't be able to ask questions using the Q&A feature. In that case, please ask them to paste their questions into the chat or to raise their hand and speak. Please use whichever you prefer.
 - BREAK
     - Make sure to end your session 5 min before the end of the hour to give attendees a short break before the next session. If your session has 6 demos, then you will not have time for a break.
 - Slack discussion
@@ -112,7 +112,7 @@ Please **do NOT share** the zoom link on social media or anywhere else where it 
 
 Thank you for running a Tutorial Session!
 
-**Logistics**: Each session will be a zoom webinar. To give attendees the experience of a shared event, all attendees will be upgraded to panelists. This means that they will be able to see each other, privately chat with each other, and speak. If an attendee is disruptive (voluntarily or involuntarily), they will be demoted to attendees, losing their audio privileges.
+**Logistics**: Each session will be a zoom webinar. To give attendees the experience of a shared event, all attendees will be upgraded to panelists. This means that they will be able to see each other, privately chat with each other, and speak. If an attendee is disruptive (voluntarily or involuntarily), they will be demoted to attendees, losing their audio privileges. Please turn ON your camera and ask your co-chair to turn on their cameras as well. This will make your session a lot friendlier. As noted above, once we upgrade the attendees to panelists, they won't be able to ask questions using the Q&A feature. In that case, please ask them to paste their questions into the chat or to raise their hand and speak. Please use whichever you prefer.
 
 **Zoom link**: You will find the link to the zoom webinar on the interactive conference program ([https://vldb2020.org/program.html](https://vldb2020.org/program.html)). Just click on your session and you should see buttons for Zoom, Slack, paper pdf, and technical support. 
 
@@ -159,18 +159,20 @@ Please **do NOT share** the zoom link on social media or anywhere else where it 
 **Structure of a session**: Please run your session as follows
 
 - 5 minutes before the session
-    - Arrive in the Zoom channel early to check your camera/mic, identify yourself to the technical chair by typing a message into the chat window (the technical chair will promote you to co-host), and mitigate any technical difficulties.
+    - Arrive in the Zoom channel early to check your camera/mic, identify yourself to the technical chair by typing a message into the chat window (the technical chair will promote you to co-host), and mitigate any technical difficulties. Please turn ON your camera and ask your co-chair to turn on their cameras as well. This will make your session a lot friendlier.
 - First 1 minute 
     - Take 1 minute to greet people as they arrive and let them know that the session will begin shortly.
     - Let the audience know the format of the session: VLDBJ papers will be presented in short, 4-min videos. There will be no live Q&A, but everyone is welcome to ask questions on the Slack channel. Please note that Slack should be considered ephemeral. It will only show the most recent 10K messages. 
     - Then all you have to do is to ask the technical chair to stream the videos.
-    - Please remain online to make sure all is going well and to provide support for the attendees. For example, if someone in the audience puts a question into the zoom Q&A, you can answer with: "For VLDBJ sessions, we are taking all questions over Slack, can you please ask your question there?" or if someone asks: "Will there be live Q&A at the end of the session?" you can answer: "No. All Q&A for VLDBJ sessions is over Slack."
+    - Please remain online to make sure all is going well and to provide support for the attendees. For example, if someone in the audience puts a question into the zoom Q&A or chat, you can answer with: "For VLDBJ sessions, we are taking all questions over Slack, can you please ask your question there?" or if someone asks: "Will there be live Q&A at the end of the session?" you can answer: "No. All Q&A for VLDBJ sessions is over Slack."
 
 ## Technical Round Tables
 
 Thank you so much for helping VLDB'20 in the role of technical round table chairs!
 
 The round tables will run as a zoom webinar but with all attendees promoted to panelists, so that everyone can see each other and talk, and will be 60 min in duration. They are meant to be discussions (no slides, no panelists). You will find the link to the zoom meeting on the interactive conference program ([https://vldb2020.org/program.html](https://vldb2020.org/program.html)).
+
+Please turn ON your camera and ask all attendees to turn on their cameras as well. This will make your round table a lot friendlier.
 
 We recommend the following:
 - Invite 3-4 experts in the field to join the round table (they should also ask their students and postdocs to join the round table).
