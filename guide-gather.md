@@ -1,6 +1,6 @@
 ## Using Gather at VLDB
 
-Like SIGMOD, VLDB's Hallway Track will take place on Gather.  
+Like SIGMOD, VLDB's Hallway Track will take place on [Gather](https://tokyo.vldb2020.org/?tg=session&go=conference&id=id!05Q).  
 To ensure the best use of people's limited time, VLDB has a designated "Party" session at the end of each 5-hour conference block (Sessions 05Q, 10Q, 15Q, 19Q, 25Q, 30Q, 35Q, 40Q, 45Q, 50Q, 55Q, and 60Q) that will take place on Gather.
 
 #### Gather's Interface
