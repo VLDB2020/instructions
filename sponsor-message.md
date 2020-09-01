@@ -83,8 +83,6 @@ Recruit was established more than 50 years ago as an information service company
 
 ![](https://vldb2020.org/assets/logo/logo_amazon.svg)
 
-<small>[list marks] and all related logos are trademarks of Amazon.com, Inc. or its affiliates.</small>
-
 Amazon is guided by four principles: customer obsession rather than competitor focus, passion for invention, commitment to operational excellence, and long-term thinking. We strive to have a positive impact on customers, employees, small businesses, the economy, and communities. Amazonians are smart, passionate builders with different backgrounds and goals, who share a common desire to always be learning and inventing on behalf of our customers. Explore opportunities at Amazon here (https://www.amazon.jobs/en/). 
 
 To learn more about Amazon, join us on September 1 for a Tech Talk (https://vldbtechtalk.splashthat.com/)  with Mehul A. Shah (https://www.linkedin.com/in/mehulashah/) on "The Evolution of Data Warehousing - Data Lakes with AW Lake Formation". You can also learn more about Amazon at the Women in Technology Coffee Talk (https://vldbwomenintechcoffeetalk.splashthat.com/) on Thursday, September 3. 
@@ -167,7 +165,7 @@ See also: [Residency Program](/assets/files/ibm_residency.pdf), [Recruiting Prog
 - [Learn more about IBM AI Residency Program](https://www.surveygizmo.com/s3/5636060/AIResidency2021RegisterYourInterest)
 - [Try our IBM Research Experiments](https://www.draco.res.ibm.com/experiments)
 - [Learn more about MIT-IBM Watson AI lab](https://mitibmwatsonailab.mit.edu/)
-- Read our blog about the IBM presence at VLDB 2020
+- [Read our blog about the IBM presence at VLDB 2020](https://www.ibm.com/blogs/research/2020/08/ibm-research-at-vldb-2020/)
 - [Stay up to date with the latest announcements, research, and events from IBM Research through our newsletter](https://www.ibm.com/account/reg/us-en/signup?formid=urx-44015)
 - [Visit our COVID-19 website to see IBM's response to this global challenge](https://www.ibm.com/impact/covid-19/?lnk=ushpv18l1)
 </small>
