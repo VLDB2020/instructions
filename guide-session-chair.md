@@ -55,7 +55,7 @@ Support:
     - Final discussion
         - After all the papers have been presented, you can have a group discussion.
         - The primary chair should start the discussion by asking a broad question to all authors (a panel-style question).
-        - Then take more questions and comments from the audience. At this time, you can either use the zoom Q&A feature or you can let the audience members speak directly.
+        - Then take more questions and comments from the audience. 
         - The secondary chair should contribute to the discussion.
     - BREAK
         - Make sure to end your session **7-10 min** before the end of the hour to give attendees enough time to get a coffee, get food, and stretch their legs before the next session. 
@@ -87,7 +87,7 @@ Please **do NOT share** the zoom link on social media or anywhere else where it 
     - Note that, while the technical chairs will be listening for your spoken instructions, they will remain muted for the duration of the session.  If the technical chair needs to communicate with you, it will be through chat, so **please monitor the Zoom chat window**.
 - **Student volunteer**: A student volunteer will help you with two tasks:
     - Demote a disruptive person from panelist to attendee. We will ask the students to monitor and if they notice that someone is being disruptive, they will go ahead and demote them. If you notice that someone is disruptive, you can demote them directly yourself as well.
-    - Copy over unanswered questions from the zoom Q&A to the Slack Channel. We will ask them to make sure and copy all unanswered questions, but try to copy all questions if possible.
+    - Copy over unanswered questions from the zoom Q&A (or chat) to the Slack Channel. We will ask them to make sure and copy all unanswered questions, but try to copy all questions if possible.
 - **Slack channel**: Additional Gateway Productions support staff will also be present in a dedicated support slack channel called "technicalsupport".
 
 **Structure of a session**: Please run your session as follows
@@ -127,7 +127,7 @@ Please **do NOT share** the zoom link on social media or anywhere else where it 
     - Note that, while the technical chairs will be listening for your spoken instructions, they will remain muted for the duration of the session.  If the technical chair needs to communicate with you, it will be through chat, so **please monitor the Zoom chat window**.
 - **Student volunteer**: A student volunteer will help you with two tasks:
     - Demote a disruptive person from panelist to attendee. We will ask the students to monitor and if they notice that someone is being disruptive, they will go ahead and demote them. If you notice that someone is disruptive, you can demote them directly yourself as well.
-    - Copy over unanswered questions from the zoom Q&A to the Slack Channel. We will ask the students to make sure and copy all unanswered questions, but also try to copy all questions if possible.
+    - Copy over unanswered questions from the zoom Q&A (or chat) to the Slack Channel. We will ask the students to make sure and copy all unanswered questions, but also try to copy all questions if possible.
 - **Slack channel**: Additional Gateway Productions support staff will also be present in a dedicated support slack channel called "technicalsupport". 
 
 **Slack Discussion**
@@ -151,9 +151,8 @@ Please **do NOT share** the zoom link on social media or anywhere else where it 
 
 - **Technical chair**: A technical chair from Gateway Production will be present. That person will take care of streaming the videos when you give them the signal. They have all the videos and they know the order. The technical chair can also help to answer other technical questions that may come up during the session.
     - Note that, while the technical chairs will be listening for your spoken instructions, they will remain muted for the duration of the session.  If the technical chair needs to communicate with you, it will be through chat, so **please monitor the Zoom chat window**.
-- **Student volunteer**: A student volunteer will help you with two tasks:
-    - Demote a disruptive person from panelist to attendee. We will ask the students to monitor and if they notice that someone is being disruptive, they will go ahead and demote them. If you notice that someone is disruptive, you can demote them directly yourself as well.
-    - Copy over unanswered questions from the zoom Q&A to the Slack Channel. We will ask the students to make sure and copy all unanswered questions, but also try to copy all questions if possible.
+- **Student volunteer**: A student volunteer will help you with the session. They will, for example, demote a disruptive person from panelist to attendee. We will ask the students to monitor and if they notice that someone is being disruptive, they will go ahead and demote them. If you notice that someone is disruptive, you can demote them directly yourself as well.
+   
 - **Slack channel**: Additional Gateway Productions support staff will also be present in a dedicated support slack channel called "technicalsupport". 
 
 **Structure of a session**: Please run your session as follows
