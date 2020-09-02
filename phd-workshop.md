@@ -68,7 +68,7 @@
 
 | Video |  Title   | Author   |
 | ----- | -------- | -------- |
-| N/A | Democratizing Data Science and Lessons Learned Along the Way     | Aditya Parameswaran (UC Berkeley)     |
+| [Data Science 1](https://www.loom.com/share/fcc5058d8893481da43d0e84db02ba8b), [Data Science 2](https://www.loom.com/share/e5e90461f17e48c6be6f0f4f285e3891), [Coping with Rejections](https://www.loom.com/share/89bfb10668d94595b265a156126474a5) | Democratizing Data Science and Lessons Learned Along the Way   | Aditya Parameswaran (UC Berkeley)     |
 
 ### Session 5: MISC 2
 
